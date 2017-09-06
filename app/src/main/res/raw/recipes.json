@@ -1,0 +1,92 @@
+[
+ {
+   "id": "A4502000",
+   "groupID": "6073F6F8",
+   "name": "first1",
+   "ingredients": ["sugar: 1 teaspoon" , "salt: a pinch" ],
+   "preperation": "some preperation text on how to make the dish",
+   "serving": "some text on how to serve the dish",
+   "drawableName": "burger"
+ },
+ {
+   "id": "87025003",
+   "groupID": "6073F6F8",
+   "name": "first2",
+   "ingredients": ["sugar: 1 teaspoon" , "salt: a pinch" ],
+   "preperation": "some preperation text on how to make the dish",
+   "serving": "some text on how to serve the dish",
+   "drawableName": "burger"
+ },
+ {
+   "id": "7538DDD2",
+   "groupID": "CEB3EB1F",
+   "name": "soup1",
+   "ingredients": ["sugar: 1 teaspoon" , "salt: a pinch" ],
+   "preperation": "some preperation text on how to make the dish",
+   "serving": "some text on how to serve the dish",
+   "drawableName": "burger"
+ },
+ {
+   "id": "D8CE9029",
+   "groupID": "CEB3EB1F",
+   "name": "soup2",
+   "ingredients": ["sugar: 1 teaspoon" , "salt: a pinch" ],
+   "preperation": "some preperation text on how to make the dish",
+   "serving": "some text on how to serve the dish",
+   "drawableName": "burger"
+ },
+ {
+   "id": "B2FDCC03",
+   "groupID": "EB2DC44D",
+   "name": "salad1",
+   "ingredients": ["sugar: 1 teaspoon" , "salt: a pinch" ],
+   "preperation": "some preperation text on how to make the dish",
+   "serving": "some text on how to serve the dish",
+   "drawableName": "burger"
+ },
+ {
+   "id": "BF37F142",
+   "groupID": "EB2DC44D",
+   "name": "salad2",
+   "ingredients": ["sugar: 1 teaspoon" , "salt: a pinch" ],
+   "preperation": "some preperation text on how to make the dish",
+   "serving": "some text on how to serve the dish",
+   "drawableName": "burger"
+ },
+ {
+   "id": "DC95E941",
+   "groupID": "D6239CD8",
+   "name": "main1",
+   "ingredients": ["sugar: 1 teaspoon" , "salt: a pinch" ],
+   "preperation": "some preperation text on how to make the dish",
+   "serving": "some text on how to serve the dish",
+   "drawableName": "burger"
+ },
+ {
+   "id": "47A4098C",
+   "groupID": "D6239CD8",
+   "name": "main2",
+   "ingredients": ["sugar: 1 teaspoon" , "salt: a pinch" ],
+   "preperation": "some preperation text on how to make the dish",
+   "serving": "some text on how to serve the dish",
+   "drawableName": "burger"
+ },
+ {
+   "id": "393B31D9",
+   "groupID": "E7EF3F06",
+   "name": "Papanash",
+   "ingredients": ["sugar: 1 teaspoon" , "salt: a pinch" ],
+   "preperation": "some preperation text on how to make the dish",
+   "serving": "some text on how to serve the dish",
+   "drawableName": "papanash"
+ },
+ {
+   "id": "F16E521D",
+   "groupID": "E7EF3F06",
+   "name": "Malai",
+   "ingredients": ["sugar: 1 teaspoon" , "salt: a pinch" ],
+   "preperation": "some preperation text on how to make the dish",
+   "serving": "some text on how to serve the dish",
+   "drawableName": "malai_crop"
+ }
+]
