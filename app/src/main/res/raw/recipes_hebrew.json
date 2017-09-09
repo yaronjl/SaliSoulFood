@@ -2,27 +2,27 @@
   "groups": [
     {
       "id": "6073F6F8",
-      "name": "openers",
+      "name": "ראשונות",
       "drawableName": "openers"
     },
     {
       "id": "CEB3EB1F",
-      "name": "soups",
+      "name": "מרקים",
       "drawableName": "soups"
     },
     {
       "id": "EB2DC44D",
-      "name": "salads",
+      "name": "סלטים",
       "drawableName": "salads"
     },
     {
       "id": "D6239CD8",
-      "name": "main course",
+      "name": "עיקריות",
       "drawableName": "main"
     },
     {
       "id": "E7EF3F06",
-      "name": "desserts",
+      "name": "קינוחים",
       "drawableName": "cakes"
     }
   ],
@@ -30,7 +30,7 @@
     {
       "id": "A4502000",
       "groupID": "6073F6F8",
-      "name": "first1",
+      "name": "מנה1",
       "ingredients": [
         "sugar: 1 teaspoon",
         "salt: a pinch"
@@ -42,7 +42,7 @@
     {
       "id": "87025003",
       "groupID": "6073F6F8",
-      "name": "first2",
+      "name": "מנה2",
       "ingredients": [
         "sugar: 1 teaspoon",
         "salt: a pinch"
@@ -126,7 +126,7 @@
     {
       "id": "393B31D9",
       "groupID": "E7EF3F06",
-      "name": "Papanash",
+      "name": "פפנש",
       "ingredients": [
         "sugar: 1 teaspoon",
         "salt: a pinch"
@@ -138,7 +138,7 @@
     {
       "id": "F16E521D",
       "groupID": "E7EF3F06",
-      "name": "Malai",
+      "name": "מלאי",
       "ingredients": [
         "sugar: 1 teaspoon",
         "salt: a pinch"

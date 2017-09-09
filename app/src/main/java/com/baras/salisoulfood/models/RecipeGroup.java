@@ -1,7 +1,7 @@
 package com.baras.salisoulfood.models;
 
 
-public class RecipeGroup implements MenuItem{
+public class RecipeGroup implements GridMenuItem {
     String id;
     String name;
     String drawableName;

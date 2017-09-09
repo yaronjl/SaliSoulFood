@@ -7,7 +7,6 @@
     android:layout_height="match_parent"
     tools:context="com.baras.salisoulfood.activities.MainActivity">
 
-
     <android.support.v7.widget.Toolbar
         android:id="@+id/toolbar"
         android:layout_width="match_parent"
@@ -29,13 +28,11 @@
         android:id="@+id/menu"
         android:layout_width="fill_parent"
         android:layout_height="0dp"
-
         android:layout_marginBottom="8dp"
         android:layout_marginLeft="0dp"
         android:layout_marginRight="0dp"
         android:layout_marginTop="0dp"
         android:gravity="center"
-
         android:numColumns="2"
         android:stretchMode="columnWidth"
         app:layout_constraintBottom_toBottomOf="parent"

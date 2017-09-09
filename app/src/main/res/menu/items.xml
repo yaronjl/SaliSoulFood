@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_romanian"
+        android:icon="@mipmap/romanian_flag"
+        android:title=""
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/action_hebrew"
+        android:icon="@mipmap/israel_flag"
+        android:title=""
+        app:showAsAction="always"/>
+
+</menu>
